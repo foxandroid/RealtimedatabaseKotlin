@@ -1,0 +1,24 @@
+<!-- drawable/input.xml -->
+<vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="360dp"
+    android:height="50dp"
+    android:viewportWidth="360"
+    android:viewportHeight="50"
+    >
+
+    <group>
+
+        <clip-path
+            android:pathData="M25 0H335C348.807 0 360 11.1929 360 25C360 38.8071 348.807 50 335 50H25C11.1929 50 0 38.8071 0 25C0 11.1929 11.1929 0 25 0Z"
+            />
+
+        <path
+            android:pathData="M0 0V50H360V0"
+            android:fillColor="#FFFFFF"
+            />
+
+    </group>
+
+</vector>
